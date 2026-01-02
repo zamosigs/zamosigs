@@ -88,15 +88,6 @@ Built for Pakistan-based religious travel experiences.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zamosigs&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamosigs&layout=compact" height="165" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -123,7 +114,14 @@ I’m open to:
 🚀 Startup Collaboration  
 🤝 Long-term Partnerships  
 
-📧 Contact anytime — I’d love to connect.
+### 📬 Contact
+
+📱 **WhatsApp:** [+92 334 0541809](https://wa.me/923340541809)  
+📸 **Instagram:** [@zamosigs.pk](https://instagram.com/zamosigs.pk)  
+📘 **Facebook:** [zamosigs.pk](https://facebook.com/zamosigs.pk)  
+🌐 **Website:** [zamosigs.me](https://zamosigs.me)
+
+Let’s connect and build something meaningful 🚀
 
 ---
 
